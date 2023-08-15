@@ -1,16 +1,32 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNncXh3OGJ5bjg3a2h2cWFpaXA1b3BtMHNyMTR5ZnJxOHYxN2szdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kJV3yFjaVYtlP0CMOR/giphy.gif" width="200"/>
+<h1>Приветик🌱</h1>
+</div>
+<div align="left">
+<h3>Меня зовут Арина и я начинающая веб-разработчица. Свой путь в этой сфере я начала в сентябре 2022, начав обучение в Яндекс.Практикуме. Сейчас, окончив курсы, я продолжаю своё обучение самостоятельно с помощью статей, книг и лекций. В данный момент я набираюсь опыта, присоединяясь к проектам и стажировкам, а также верстая сайты по бесплатным макетам.</h3>
+</div>
 
-<!--
-**rina-dz/rina-dz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### :sauropod: Языки и технологии :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### :four_leaf_clover: Статистика :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rina-dz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### :love_letter: Контакты :
+<div>
+  <h3>Telegram: @c_crtl_v</h3>
+  <h3>Email: dz.rina.na@gmail.com</h3>
+  <h3>ВК: https://vk.com/arina_dz</h3>
+</div>
