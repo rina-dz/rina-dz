@@ -30,5 +30,4 @@
 <div>
   <p>Telegram: @c_crtl_v</p>
   <p>Email: dz.rina.na@gmail.com</p>
-  <p>ВК: https://vk.com/arina_dz</p>
 </div>
