@@ -1,12 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNncXh3OGJ5bjg3a2h2cWFpaXA1b3BtMHNyMTR5ZnJxOHYxN2szdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kJV3yFjaVYtlP0CMOR/giphy.gif" width="200"/>
-<h1>Приветик🌱</h1>
-</div>
-<div align="left">
-Меня зовут Арина и я веб-разработчица. Свой путь в этой сфере я начала в сентябре 2022, начав обучение в Яндекс.Практикуме. Сейчас, окончив курсы, я продолжаю своё обучение самостоятельно с помощью статей, книг и лекций, а также занимась накоплением опыта с помощью фриланса.
-</div>
-
-
 ### :sauropod: Языки и технологии :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
